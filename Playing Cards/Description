@@ -1,0 +1,4 @@
+A self-contained card game which has functions like deal and shuffle
+to perform real card game operations on the virtual deck.
+You can delete (or modify) the global copy of deck as much as you want and still play cards.
+The deal and shuffle will use the pristine, protected copy of deck.
